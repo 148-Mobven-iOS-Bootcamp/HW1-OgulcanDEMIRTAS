@@ -26,3 +26,4 @@ while result < 1001 {
     }
 
 }
+print(fibonacciList)
