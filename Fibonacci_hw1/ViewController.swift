@@ -7,13 +7,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+//Ogulcan Demirtas - Week 1 - HW-FIBONACCI-
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
+var fibonacciList = [Int]()
+var n1 = 0
+var n2 = 1
+var result = 0
 
-
-}
 
